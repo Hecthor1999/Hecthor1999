@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Héctor and I am currently a bioinformatics students at the university of Bern with a background in microbiology.
 <!--
 **Hecthor1999/Hecthor1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
