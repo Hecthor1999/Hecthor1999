@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Héctor and I am a bioinformatics students at the university of Bern with a background in microbiology.
+My name is Héctor and I am a bioinformatics student at the university of Bern with a background in microbiology.
 I'm currently learning R, Python & Bash 🌱
 <!--
 **Hecthor1999/Hecthor1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
